@@ -1,4 +1,4 @@
-package Variavies;
+package variavies;
 
 public class Variavies {
     public static void main(String[] args) {
