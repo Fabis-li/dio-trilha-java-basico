@@ -1,4 +1,4 @@
-package variavies;
+package Anatomia.classes.variavies;
 
 public class Variavies {
     public static void main(String[] args) {

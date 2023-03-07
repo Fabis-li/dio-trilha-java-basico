@@ -1,4 +1,4 @@
-package terminal;
+package Anatomia.classes.terminal;
 
 public class MinhaClass {
     public static void main(String[] args) {

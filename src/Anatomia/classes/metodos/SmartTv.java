@@ -1,4 +1,4 @@
-package metodos;
+package Anatomia.classes.metodos;
 
 public class SmartTv {
     boolean ligada = false;
